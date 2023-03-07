@@ -13,6 +13,8 @@ PLEASE READ THIS BELOW
 5. Please note that if you are going to use Jupyter notebook, you will have to download all the libraries needed into your PC
 6. You can do this by opening Anaconda Prompt, and excuting pip install commands.
 7. You can find out the individual pip install commands for all libraries needed on google.
+
+
 8.If you wish to just use the model i trained and implement your project, please be patient as I have not yet uploaded the .h5 files you will need.
 
     THAT BEING SAID, ALL THE BEST!!!! I HOPE YOU HAVE A WONDERFUL TIME IMPLEMENTING THIS PROJECT.
